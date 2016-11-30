@@ -1,4 +1,4 @@
-epubQTools [![Release](https://img.shields.io/github/release/quiris11/epubqtools.svg)](https://github.com/quiris11/epubqtools/releases/latest)
+epubQTools
 ==========
 
 Tools for checking, correcting and hyphenating EPUB files.
